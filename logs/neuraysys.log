@@ -1,0 +1,31 @@
+2025-12-25 01:41:14 : Startup executable scan started
+2025-12-25 01:41:14 : Threat detected in /etc/init.d/sudo | Pattern: reboot
+2025-12-25 01:41:14 : Threat detected in /etc/init.d/plymouth | Pattern: shutdown
+2025-12-25 01:41:14 : Threat detected in /etc/init.d/wtmpdb-update-boot | Pattern: shutdown
+2025-12-25 01:41:14 : Threat detected in /etc/init.d/mariadb | Pattern: shutdown
+2025-12-25 01:41:14 : Threat detected in /etc/init.d/stunnel4 | Pattern: rm -rf /
+2025-12-25 01:41:14 : Startup executable scan completed
+2025-12-25 01:41:14 : NeuraSys started
+2025-12-25 01:41:25 : Startup executable scan started
+2025-12-25 01:41:25 : Threat detected in /etc/init.d/sudo | Pattern: reboot
+2025-12-25 01:41:25 : Threat detected in /etc/init.d/plymouth | Pattern: shutdown
+2025-12-25 01:41:25 : Threat detected in /etc/init.d/wtmpdb-update-boot | Pattern: shutdown
+2025-12-25 01:41:25 : Threat detected in /etc/init.d/mariadb | Pattern: shutdown
+2025-12-25 01:41:25 : Threat detected in /etc/init.d/stunnel4 | Pattern: rm -rf /
+2025-12-25 01:41:25 : Startup executable scan completed
+2025-12-25 01:51:56 : Startup executable scan started
+2025-12-25 01:51:57 : Threat detected in /etc/init.d/sudo | Pattern: reboot
+2025-12-25 01:51:57 : Threat detected in /etc/init.d/plymouth | Pattern: shutdown
+2025-12-25 01:51:57 : Threat detected in /etc/init.d/wtmpdb-update-boot | Pattern: shutdown
+2025-12-25 01:51:57 : Threat detected in /etc/init.d/mariadb | Pattern: shutdown
+2025-12-25 01:51:57 : Threat detected in /etc/init.d/stunnel4 | Pattern: rm -rf /
+2025-12-25 01:51:57 : Startup executable scan completed
+2025-12-25 01:51:57 : NeuraSys started
+2025-12-25 02:12:55 : Startup executable scan started
+2025-12-25 02:12:55 : Threat detected in /etc/init.d/sudo | Pattern: reboot
+2025-12-25 02:12:55 : Threat detected in /etc/init.d/plymouth | Pattern: shutdown
+2025-12-25 02:12:56 : Threat detected in /etc/init.d/wtmpdb-update-boot | Pattern: shutdown
+2025-12-25 02:12:56 : Threat detected in /etc/init.d/mariadb | Pattern: shutdown
+2025-12-25 02:12:56 : Threat detected in /etc/init.d/stunnel4 | Pattern: rm -rf /
+2025-12-25 02:12:56 : Startup executable scan completed
+2025-12-25 02:12:56 : NeuraSys started
