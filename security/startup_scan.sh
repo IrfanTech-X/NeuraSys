@@ -4,6 +4,7 @@ scan_startup_executables() {
     log_action "Startup executable scan started"
 
     locations=(
+        "$HOME"
         "$HOME/.bashrc"
         "$HOME/.profile"
         "$HOME/.bash_profile"
@@ -37,4 +38,3 @@ scan_startup_executables() {
 
     log_action "Startup executable scan completed"
 }
-
